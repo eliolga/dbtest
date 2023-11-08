@@ -1,0 +1,7 @@
+{
+    "app_id": "shoppyshop-lghbv",
+    "config_version": 20210101,
+    "name": "shoppyshop",
+    "provider_region": "aws-us-east-1",
+    "deployment_model": "GLOBAL"
+}

@@ -1,0 +1,9 @@
+{
+    "appId": "shoppyshop-lghbv",
+    "appUrl": "https://realm.mongodb.com/groups/654265a3d0e53660e87f64c7/apps/654be1eabfd79d33e647718b",
+    "baseUrl": "https://realm.mongodb.com",
+    "clientApiBaseUrl": "https://realm.mongodb.com",
+    "dataApiBaseUrl": "https://data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/654265a3d0e53660e87f64c7/explorer/Cluster1/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
